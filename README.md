@@ -36,4 +36,5 @@ To get full credit, your application should follow these factors -
 ## Sources
 * [Building REST Service in Spring](https://spring.io/guides/gs/rest-service/)
 * [Springs RestTemplate](http://www.baeldung.com/rest-template)
+* [Externalizing configuration, see environment variables](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html)
 * [Postman](https://www.getpostman.com/apps)
