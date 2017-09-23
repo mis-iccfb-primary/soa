@@ -29,6 +29,10 @@ The quote and author services should implement a REST API to handle the business
 ## Considerations
 You will need to make some decisions when breaking up the monolith.  You should use the [12-factor app](https://12factor.net/) methodology to guide your decisions.
 
-Here are some considerations -
-* A single repository or multiple repositories?
-* How will the services be configured
+To get full credit, your application should follow these factors -
+* Code base
+* Config
+
+## Sources
+* [Building REST Service in Spring](https://spring.io/guides/gs/rest-service/)
+* [Springs RestTemplate](http://www.baeldung.com/rest-template)
